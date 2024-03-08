@@ -1,23 +1,27 @@
-# Hi there :earth_africa:
+# Hi, I'm Loïc :wave:
 
-I'm Loïc and I'm currently working as a  Backend developer @Decathlon
+I am a Backend developer @Decathlon
 
-___
-### Skills :seedling:
-
-| Backend dev :keyboard: |
-| :---: |
-| [![Backend](https://skillicons.dev/icons?i=js,ts,py)](https://skillicons.dev) |
-
-| DevOps :electric_plug: |
-| :---: |
-| [![DevOps](https://skillicons.dev/icons?i=docker,kubernetes,githubactions)](https://skillicons.dev) |
+[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,html,css,docker,kubernetes,githubactions,terraform,linux,postgres&perline=4)](https://skillicons.dev)
 
 ___
-### Interests :telescope:
 
- - Learn everyday
- - Watch tech
- - Program language with computers
- - Speak and learn new languages with humans being
- - Travel / Meet people / Play chess
+```py
+class Interests:
+    def __init__(self):
+        self.interests = []
+
+    def add_interest(self, interest):
+        self.interests.append(interest)
+
+
+interests = Interests()
+interests.add_interest("Learn everyday")
+interests.add_interest("Watch tech")
+interests.add_interest("Program language with computers")
+interests.add_interest("Speak and learn new languages with humans being")
+interests.add_interest("Travel")
+interests.add_interest("Meet people")
+interests.add_interest("Play board games")
+interests.add_interest("Learn everyday")
+```
