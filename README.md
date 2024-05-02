@@ -1,10 +1,6 @@
 # Hi, I'm Loïc :wave:
 
-I am a Backend developer @Decathlon
-
-[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,html,css,docker,kubernetes,githubactions,terraform,linux,postgres&perline=4)](https://skillicons.dev)
-
-___
+I am a Backend [developer | engineer] @Decathlon
 
 ```py
 class Interests:
@@ -23,3 +19,5 @@ interests.add_interest("Travel")
 interests.add_interest("Meet people")
 interests.add_interest("Play board games")
 ```
+
+[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,html,css,docker,kubernetes,githubactions,terraform,linux,postgres&perline=6)](https://skillicons.dev)
