@@ -1,6 +1,5 @@
 # Hi, I'm Loïc :wave:
 
-[![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=plastic&logo=Firefox-Browser&logoColor=white)](l2es.fr)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](l2es)
 [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/l2es)
 
@@ -24,4 +23,4 @@ interests.add_interest("Meet people")
 interests.add_interest("Chess")
 ```
 
-[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,html,css,docker,kubernetes,githubactions,terraform,linux,postgres&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,html,css,docker,kubernetes,githubactions,terraform,linux,postgres,raspberrypi&perline=5)](https://skillicons.dev)
