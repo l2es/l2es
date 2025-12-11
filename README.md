@@ -23,4 +23,4 @@ interests.add_interest("Meet people")
 interests.add_interest("Chess")
 ```
 
-[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,html,css,docker,kubernetes,githubactions,terraform,linux,postgres,raspberrypi&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=ts,py,nodejs,js,kotlin,ktor,html,css,docker,kubernetes,githubactions,terraform,linux,postgres,raspberrypi&perline=5)](https://skillicons.dev)
