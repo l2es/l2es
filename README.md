@@ -1,7 +1,6 @@
 # Hi, I'm Loïc :wave:
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](l2es)
-[![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=plastic&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/l2es)
 
 I am a Backend [developer | engineer] @Decathlon
 
