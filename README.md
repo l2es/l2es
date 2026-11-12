@@ -2,7 +2,7 @@
 
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](l2es)
 
-I am a Backend [developer | engineer] @Decathlon
+I am a DevOps engineer @Decathlon
 
 ```py
 class Interests:
