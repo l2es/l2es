@@ -1,8 +1,8 @@
 # Hi, I'm Loïc :wave:
 
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=plastic&logo=discord&logoColor=white)](l2es)
+![Discord](https://img.shields.io/badge/Discord-l2es-%235865F2.svg?style=plastic&logo=discord&logoColor=white)
 
-I am a DevOps engineer @Decathlon
+## I am a DevOps engineer @Decathlon
 
 ```py
 class Interests:
@@ -14,12 +14,22 @@ class Interests:
 
 
 interests = Interests()
-interests.add_interest("Watch tech")
-interests.add_interest("Program language with computers")
-interests.add_interest("Speak and learn new languages with humans being")
-interests.add_interest("Travel")
-interests.add_interest("Meet people")
-interests.add_interest("Chess")
+interests.add_interest("AI, IOT, DIY, DEVSECOPS")
+# interests.add_interest("Programming language with computers")
+interests.add_interest("Programming language by computers")
+interests.add_interest("Meeting new people")
+interests.add_interest("Travel and visit new places")
+interests.add_interest("Always learning new human languages")
 ```
+___
 
+### Personal Repos
+| Repository | Description |
+| :--- | :--- |
+| 🔌 **[Embedded projects](https://github.com/l2es/embedded_lab)** | Embedded projects experiments |
+| 🐍 **[Python skills](https://github.com/l2es/exercism-python)** | My solutions for Exercism tracks |
+
+___
+
+### Skills
 [![Skills](https://skillicons.dev/icons?i=ts,py,js,go,kotlin,nodejs,ktor,html,css,docker,kubernetes,githubactions,terraform,linux,postgres,raspberrypi,gcp,aws&perline=6)](https://skillicons.dev)
